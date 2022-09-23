@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 minha idade é 46 anos
+=======
+meu nome é Mauro
+>>>>>>> new_branch
