@@ -3,3 +3,6 @@ minha idade é 46 anos
 =======
 meu nome é Mauro
 >>>>>>> new_branch
+esse negócio é interressante 
+nada parece real tudo é novo e o novo se refaz
+alterando o arquivo outra vez porque da primeira nãõ deu certo
